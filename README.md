@@ -1,5 +1,5 @@
 www.buildr.am
-voron@buildr.am
+email:voron@buildr.am
 
 Printer:  
 Creality Ender 3
