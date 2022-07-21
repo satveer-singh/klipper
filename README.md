@@ -1,8 +1,5 @@
-[![Klipper](docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
-
-https://www.klipper3d.org/
-
-Website : www.buildr.am
+www.buildr.am
+voron@buildr.am
 
 Printer:  
 Creality Ender 3
@@ -16,3 +13,6 @@ UART mode of on-board TMC2209
 PC communication interface:
 USB Micro B type
 communication baud rate 115200
+
+[![Klipper](docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
+https://www.klipper3d.org/
